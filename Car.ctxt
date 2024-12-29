@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Write\ a\ description\ of\ class\ Car\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Car\n
+comment2.params=col
+comment2.target=void\ setColor(java.lang.String)
+comment2.text=\n\ Set\ the\ color\ of\ the\ car\n\n\ @param\ \ col\ \ the\ new\ color\n\ @return\ The\ car\ color\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=
+comment4.target=int\ getYear()
+numComments=5
