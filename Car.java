@@ -29,7 +29,6 @@ public class Car
      */
     public void setColor(String col)
     {
-        // put your code here
         color = col;
     }
     
